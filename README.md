@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java FSD**
 
-- 📝 I write articles on [https://medium.com/@wisdom26](https://medium.com/@wisdom26)
+- 📝 I write articles on [https://medium.com/@vivek008](https://medium.com/@vivek008)
 
 - 💬 Ask me about **Html| CSS| JavaScript| Python| Django| Php| Mysql| DBMS| Cloud**
 
