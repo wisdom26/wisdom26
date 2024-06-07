@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Wisdom26/Wisdom26/blob/main/tech1.jpg" alt="Banner Image" width="800" height="200">
+  <img src="https://github.com/Wisdom26/Wisdom26/blob/main/techs.jpg" alt="Banner Image" width="800" height="200">
 </div>
 <h1 align="center">Hi 👋, I'm Wisdom26</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
